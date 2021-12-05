@@ -1,4 +1,9 @@
+<div display="content"><br>
+  <img align="center" alt="capa" width="100%" src="/img/fundo.jpg">
+</div>
+
 ## Olá! Eu sou o Yuri Gabriel, prazer em conhece-lo(a)
+
 <div align="center">
   <a href="https://github.com/Yurixgabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -15,15 +20,15 @@
   
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Leão-pic" height="150" style="border-radius:50px;" src="/img/leão.jpg">
 </div>
   
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCCqaB5XTuFWvU25wqSvGhlg" target="_blank"><img src="/img/youtube.png" height="30" target="_blank"></a>
   
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/next.nl.level" target="_blank"><img src="/img/instagram.png" height="30" target="_blank"></a>
   
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
