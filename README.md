@@ -1,9 +1,13 @@
 ## Olá! Eu sou o Yuri Gabriel, prazer em conhece-lo(a)
 <div align="center">
   <a href="https://github.com/Yurixgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&layout=compact&langs_count=7&theme=prussian"/>
+    
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=prussian&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
