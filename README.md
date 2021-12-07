@@ -4,7 +4,7 @@
   <a href="https://github.com/Yurixgabriel">
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&layout=compact&theme=prussian&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="100em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&layout=compact&theme=prussian&hide_border=true&include_all_commits=true&count_private=true"/>
   
   <img height="135em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&include_all_commits=true&count_private=true"/>
 </div>
