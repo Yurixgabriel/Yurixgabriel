@@ -1,16 +1,12 @@
-<div display="content"><br>
-  <img align="center" alt="capa" width="100%" src="/img/fundo.jpg">
-</div>
-
 ## Olá! Eu sou o Yuri Gabriel, prazer em conhece-lo(a)
 
 <div align="center">
   <a href="https://github.com/Yurixgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=gotham&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-    
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&layout=compact&langs_count=7&theme=gotham&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
   
 <div style="display: inline_block"><br>
