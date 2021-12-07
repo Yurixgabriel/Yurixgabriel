@@ -6,7 +6,7 @@
    
   <img  width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&langs_count=8&theme=radical&hide_border=true"/>
   
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
   
 <div style="display: inline_block"><br>
