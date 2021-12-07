@@ -24,5 +24,5 @@
 <div style="display: inline_block"><br> 
   <a href="https://www.youtube.com/channel/UCCqaB5XTuFWvU25wqSvGhlg" target="_blank"><img src="/img/youtube.png" height="30" target="_blank"></a>          <a href="https://instagram.com/next.nl.level" target="_blank"><img src="/img/instagram.png" height="30" target="_blank"></a>          <a href = "mailto:next.suporte.leve@gmail.com"><img src="/img/gmail.png" height="30" target="_blank"></a>          <a href="https://www.linkedin.com/in/yurixgabriel" target="_blank"><img src="/img/linkedin.png" height="30" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Yurixgabriel/Yurixgabriel/blob/output/github-contribution-grid-snake.svg)
 </div>
