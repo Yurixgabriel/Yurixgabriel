@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/Yurixgabriel">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Yurixgabriel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
    
-  <img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&langs_count=8&theme=radical&hide_border=true"/>
+  <img  width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&langs_count=8&theme=radical&hide_border=true"/>
   
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
