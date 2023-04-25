@@ -7,18 +7,16 @@
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&theme=prussian&hide_border=true&include_all_commits=true&count_private=true"/>
   
   <img height="135em" src="http://github-readme-streak-stats.herokuapp.com?user=Yurixgabriel&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&include_all_commits=true&count_private=true"/>
-    
-   <div min-width="10%" min-height="10%" background-color="#fffff"></div>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Leão-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90194848/145071321-42186dc8-3628-47a0-b13b-e6f2ed957133.gif">
+  <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90194848/145071321-42186dc8-3628-47a0-b13b-e6f2ed957133.gif">
 </div>
 
   ##
