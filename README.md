@@ -1,4 +1,4 @@
-## Olá! Eu sou o Yuri Gabriel, prazer em conhece-lo(a)
+## Bem-vindo(a) ao meu território!
 
 <div align="center">
   <a href="https://github.com/Yurixgabriel">
