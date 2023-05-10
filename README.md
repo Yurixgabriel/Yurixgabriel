@@ -22,7 +22,7 @@ Deixe-me me apresentar. Me chamo Yuri Gabriel, um entusiasta da tecnologia e um 
 
 <div align="end">
   <a href="https://github.com/Yurixgabriel">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&theme=prussian&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurixgabriel&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
 </div><br>
 
 Fique à vontade para explorar o que quiser, mas por favor, respeite as áreas demarcadas. E lembre-se, temos olhos em todos os lugares. 🐱‍👤🐱‍👤🐱‍👤
