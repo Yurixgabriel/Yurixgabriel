@@ -4,7 +4,7 @@
  
 Deixe-me me apresentar. Me chamo Yuri Gabriel, um entusiasta da tecnologia e um dos **"alfas"** que comandam a [918 Error](https://www.youtube.com/channel/UCGBOSg8c_fLLpQVvrkYyAsQ), além de ser o anfitrião deste lugar.
 
-![texto alternativo da imagem](URL da imagem)
+![](https://github.com/Yurixgabriel/Yurixgabriel/blob/main/github.png)
 
 ~~E não, não é erro 404 kkkkk~~ Estou falando do [error 918](https://www.instagram.com/918.error/), uma marca que eu e meu amigo criamos, pra juntar as coisas que nós dois gostamos, sendo elas: jogos, programação, zoeira sem fim, ... além de outras ideias que surgem.  🎮💻🤣
 
