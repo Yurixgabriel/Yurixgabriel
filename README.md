@@ -28,6 +28,6 @@ Deixe-me me apresentar. Me chamo Yuri Gabriel, um entusiasta da tecnologia e um 
 Fique à vontade para explorar o que quiser, mas por favor, respeite as áreas demarcadas. E lembre-se, temos olhos em todos os lugares. 🐱‍👤🐱‍👤🐱‍👤
 
 Enfim, é aqui que me despeço. Caso precise ou queira entrar em contato comigo, por qualquer motivo, estas são minhas redes:
-  [Instagram](https://www.instagram.com/yurixgabriel/)  - [Linkedin](https://www.linkedin.com/in/yurixgabriel/) - [Email](yurixgabriel@gmail.com)
+  [Instagram](https://www.instagram.com/yurixgabriel/)  - [Linkedin](https://www.linkedin.com/in/yurixgabriel/) - yurixgabriel@gmail.com
   
 Basta chamar que alguém irá atendê-lo. Adeus visitante, espero que goste do lugar! ~~**Eee... não é pessoal, são apenas negócios.**~~ 👋
